@@ -1,0 +1,11 @@
+@import url("layout.css");
+@import url("typography.css");
+@import url("card.css");
+@import url("post.css");
+body{
+    background-color:rgb(235, 235, 235);
+    height: 100%;
+    margin:4;
+    padding: 4px;
+    font-family: 'Georgia', 'Times New Roman', serif;
+}

@@ -1,0 +1,35 @@
+h1,h2{
+    color: #353434;
+    text-shadow: 0 0 3px #665a5a;
+    font-weight: bold;
+    font-size: 2.5rem;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Georgia', 'Times New Roman', serif;}
+h3,h4,h6{
+    color: #353434;
+    font-family: 'Georgia', 'Times New Roman', serif;
+}
+    a {
+    color: #666666;
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;    
+  }
+  
+  a:hover {
+    color: #ac5b5b;
+    text-decoration: underline;
+    font-family:Georgia, 'Times New Roman', Times, serif;    
+  }
+
+p {
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: #000000;
+ } 
+ blockquote {
+    color: #ac5b5b;
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    border-left: 3px solid #ccc;
+    padding-left: 20px;
+  }
